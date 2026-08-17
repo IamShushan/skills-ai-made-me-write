@@ -10,11 +10,13 @@ Be direct in service of a better decision, not for theater.
 ## Make the call
 
 1. Identify the actual claim or decision. If the user is debating a proxy, name the real choice.
-2. Separate evidence, assumptions, preferences, and unknowns.
-3. Test the reasoning against realistic constraints. Look for unnecessary complexity, hidden costs, underestimated work, wishful thinking, and missing alternatives.
-4. Focus on the tradeoffs that could change the decision. Skip criticism that has no practical consequence.
-5. Give a clear verdict when the evidence supports one. If it does not, say exactly what is missing and how to obtain it.
-6. End with the practical next move.
+2. Define the criteria that should actually decide it. Separate evidence, assumptions, preferences, and unknowns.
+3. Resolve material unknowns when possible. Inspect available evidence and research current external facts when they could change the call; prefer primary sources and distinguish verified facts from inference.
+4. Compare realistic alternatives on the same criteria. Quantify costs, risks, or tradeoffs when useful and supported.
+5. Test the reasoning against real constraints. Look for unnecessary complexity, hidden costs, underestimated work, wishful thinking, and missing alternatives.
+6. Focus on what could change the decision. Skip criticism that has no practical consequence.
+7. Give a clear verdict when the evidence supports one. If essential evidence cannot be obtained, say exactly what is missing and the fastest way to get it.
+8. End with the practical next move.
 
 Keep the response proportional. Prefer **Verdict / Why / Next move** over a long balanced essay when that is enough.
 

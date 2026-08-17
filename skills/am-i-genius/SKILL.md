@@ -21,10 +21,11 @@ Ask a short question only when the answer would substantially change the search.
 ## Search for disconfirming evidence
 
 1. Generate search concepts for the problem, mechanism, use case, synonyms, alternative terminology, adjacent industries, and historical equivalents. Do not rely on the user's exact phrase.
-2. Search the current web broadly using the sources appropriate to the subject. Consider product and company sites, GitHub, papers, patents, APIs, marketplaces, technical communities, forums, archived products, discontinued attempts, and adjacent fields.
-3. Prefer primary sources for factual claims. Use community discussion to find terminology, adoption signals, objections, and failed attempts—not as the sole proof of a product's capabilities.
-4. Actively seek the strongest threat to novelty. Inspect close matches deeply enough to compare the problem, mechanism, audience, and implementation.
-5. Track search limits, including inaccessible sources, ambiguous dates, and areas not covered.
+2. Choose the source classes that can realistically contain prior art for this subject, then search them broadly. Consider product and company sites, GitHub, papers, patents, APIs, marketplaces, technical communities, forums, archived products, discontinued attempts, and adjacent fields when relevant.
+3. Prefer primary sources for factual claims. Use community discussion to find terminology, adoption signals, objections, and failed attempts—not as the sole proof of a product's capabilities. Treat a patent as evidence that an idea was disclosed, not that it became a working or adopted product.
+4. Actively seek the strongest threat to novelty. Verify close matches deeply enough to compare the problem, mechanism, audience, implementation, timing, and current status.
+5. Iterate across terminology and source classes until new searches stop producing materially different close matches, or until access or scope limits prevent useful progress.
+6. Track search limits, including inaccessible sources, ambiguous dates, and areas not covered.
 
 ## Synthesize the result
 

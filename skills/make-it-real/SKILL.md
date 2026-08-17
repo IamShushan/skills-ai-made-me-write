@@ -10,10 +10,12 @@ Turn intent into the smallest useful form that can move.
 ## Build the path
 
 1. State the desired end state in concrete terms. Resolve only the missing decisions that materially affect it.
-2. Define the smallest version that produces real value or evidence. Separate must-haves from ideas that can wait.
-3. Identify dependencies, blockers, constraints, and risky assumptions. Make reasonable assumptions where reversal is cheap.
-4. Choose the artifact that best advances the work: a next-action checklist, scoped brief, experiment, workflow, architecture, sequence, decision list, or implementation plan.
-5. Put the immediate next move first. Add later steps only when they help the user act now.
+2. Inspect the relevant context and materials. Investigate facts that could materially affect feasibility, risk, dependencies, or sequence; use sources appropriate to the situation and distinguish verified constraints from working assumptions.
+3. Define the smallest version that produces real value or evidence. Separate must-haves from ideas that can wait.
+4. Identify dependencies, blockers, constraints, and risky assumptions. Make reasonable assumptions where reversal is cheap.
+5. Choose the artifact that best advances the work: a next-action checklist, scoped brief, experiment, workflow, architecture, sequence, decision list, or implementation plan.
+6. Check the proposed path against real constraints and define what useful progress or success would look like.
+7. Put the immediate next move first. Add later steps only when they help the user act now.
 
 Adapt to the domain. An event may need a date, venue constraint, and invite list; a technical system may need interfaces and failure modes. Do not turn every idea into software or every request into a multi-phase roadmap.
 

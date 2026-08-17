@@ -9,12 +9,13 @@ Design for the destination agent, not for an abstract idea of a "good prompt."
 
 ## Translate the task
 
-1. Identify the outcome, target agent or tool, available context, constraints, and success conditions.
+1. Identify the outcome, target agent or tool, available context, constraints, and success conditions. Inspect supplied artifacts or working context when the instructions depend on them.
 2. Verify the target's current capabilities in official documentation when freshness matters. Prefer primary sources and distinguish documented behavior from inference.
 3. Choose the lightest effective instruction form: one prompt, staged prompts, durable agent instructions, a workflow, or another format the target supports.
 4. Include only context the target needs. State constraints and forbidden actions when they prevent realistic failure modes.
 5. Add acceptance criteria and expected outputs when they make completion verifiable.
-6. Deliver paste-ready instructions with minimal setup. Put any user-supplied placeholders where they are easy to find.
+6. Check that the instructions use supported capabilities, contain no conflicting constraints, and define outputs the destination agent can actually produce and verify.
+7. Deliver paste-ready instructions with minimal setup. Put any user-supplied placeholders where they are easy to find.
 
 Do not inflate the prompt to make it look sophisticated. If the destination agent can discover a fact or infer a routine detail reliably, avoid restating it.
 
