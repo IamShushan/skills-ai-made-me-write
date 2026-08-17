@@ -23,7 +23,7 @@ Keep each skill narrow enough to activate predictably. Avoid overlap and never b
 - Use progressive disclosure. Keep the core `SKILL.md` concise; add focused material under `references/` only when a task-specific branch justifies it.
 - Add scripts, assets, product-specific metadata, or dependencies only when they solve a current need.
 - Prefer primary sources when external behavior, tool capabilities, or syntax may have changed.
-- Preserve focused outputs: do substantial work internally and return only what helps the user understand, decide, act, or verify.
+- Preserve full-depth work and distilled outputs: choose the approach best suited to the task, do all necessary research and verification, and return only what helps the user understand, decide, act, or verify.
 - Use a few realistic examples to clarify activation and boundaries, not to decorate the skill.
 
 ## Repository changes
