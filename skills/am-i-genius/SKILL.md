@@ -21,11 +21,12 @@ Ask a short question only when the answer would substantially change the search.
 ## Search for disconfirming evidence
 
 1. Generate search concepts for the problem, mechanism, use case, synonyms, alternative terminology, adjacent industries, and historical equivalents. Do not rely on the user's exact phrase.
-2. Choose the source classes that can realistically contain prior art for this subject, then search them broadly. Consider product and company sites, GitHub, papers, patents, APIs, marketplaces, technical communities, forums, archived products, discontinued attempts, and adjacent fields when relevant.
-3. Prefer primary sources for factual claims. Use community discussion to find terminology, adoption signals, objections, and failed attempts—not as the sole proof of a product's capabilities. Treat a patent as evidence that an idea was disclosed, not that it became a working or adopted product.
-4. Actively seek the strongest threat to novelty. Verify close matches deeply enough to compare the problem, mechanism, audience, implementation, timing, and current status.
-5. Iterate across terminology and source classes until new searches stop producing materially different close matches, or until access or scope limits prevent useful progress.
-6. Track search limits, including inaccessible sources, ambiguous dates, and areas not covered.
+2. Use general search engines and platform-specific search for discovery. Search video platforms, social networks, community forums, and archives when an idea may exist only as a demonstration, discussion, prototype, or abandoned attempt.
+3. Choose the source classes that can realistically contain prior art for this subject, then search them broadly. Consider product and company sites, GitHub, papers, patents, APIs, marketplaces, technical communities, archived products, discontinued attempts, and adjacent fields when relevant.
+4. Prefer primary sources for factual claims. Treat community and social material as leads and evidence of interest, objections, or adoption—not as the sole proof of a product's capabilities. Treat a patent as evidence that an idea was disclosed, not that it became a working or adopted product.
+5. Actively seek the strongest threat to novelty. Verify close matches deeply enough to compare the problem, mechanism, audience, implementation, timing, and current status.
+6. Iterate across terminology and source classes until new searches stop producing materially different close matches, or until access or scope limits prevent useful progress.
+7. Track search limits, including inaccessible sources, ambiguous dates, and areas not covered.
 
 ## Synthesize the result
 
@@ -40,11 +41,11 @@ Return a focused assessment:
 
 Cite claims near their sources. Never turn "not found" into "never existed."
 
-## Keep the boundary clear
+## Boundary
 
 Answer: **How new is this really compared with what already exists?**
 
-Novelty is separate from quality. Use `cut-the-bullshit` to judge whether the idea or decision is good.
+Assess novelty and precedent, not whether the idea is worth pursuing. Originality and quality are separate conclusions.
 
 ## Examples
 

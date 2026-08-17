@@ -14,7 +14,7 @@ Ask short, specific questions when the answers could materially change the work.
 
 ## Examples should clarify, not decorate
 
-Use a concrete example when it improves understanding, confidence, or execution. Prefer one relevant example over several generic ones, and never invent personal context.
+Use a concrete example when it improves understanding, confidence, or execution. When relevant context from the conversation, the user's known preferences, or the current project, domain, or tool is available, prefer an example that uses it and is easier to understand. Prefer one relevant example over several generic ones, and never invent context to make an example feel personal.
 
 ## Keep output focused
 

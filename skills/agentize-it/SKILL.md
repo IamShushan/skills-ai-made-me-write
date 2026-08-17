@@ -15,15 +15,22 @@ Design for the destination agent, not for an abstract idea of a "good prompt."
 4. Include only context the target needs. State constraints and forbidden actions when they prevent realistic failure modes.
 5. Add acceptance criteria and expected outputs when they make completion verifiable.
 6. Check that the instructions use supported capabilities, contain no conflicting constraints, and define outputs the destination agent can actually produce and verify.
-7. Deliver paste-ready instructions with minimal setup. Put any user-supplied placeholders where they are easy to find.
+7. Deliver the result in the format most useful to the destination.
 
 Do not inflate the prompt to make it look sophisticated. If the destination agent can discover a fact or infer a routine detail reliably, avoid restating it.
 
-## Keep the boundary clear
+## Deliver the result
+
+- By default, provide one clean, paste-ready block with only the setup needed to use it.
+- When the instructions are long, reusable, or naturally split across stages, create a clearly named Markdown or tool-native instruction file when the environment allows it.
+- When creating a file, return its location and the exact next action.
+- Keep commentary outside the instruction payload so the user does not need to clean it before use.
+
+## Boundary
 
 Answer: **How should I tell this AI agent or tool to do what I want?**
 
-Assume the underlying task is sufficiently defined. Use `read-my-mind` to clarify it or `make-it-real` to define the project before translating it for an agent.
+Translate a sufficiently defined task. Clarify only what is necessary to produce instructions the destination can execute reliably.
 
 ## Examples
 
@@ -31,6 +38,6 @@ Assume the underlying task is sufficiently defined. Use `read-my-mind` to clarif
 
 Check current Codex behavior if needed, then produce scoped instructions with constraints and acceptance criteria.
 
-> "I need Claude to compare these contracts, but I don't know if this should be one prompt or steps."
+> "Turn this into instructions for an AI video editor: make a 30-second vertical teaser from these interview clips. Keep the speaker's meaning intact, avoid synthetic footage, add readable captions, and export it for Instagram Reels."
 
-Choose the format based on the target's current capabilities and the review's verification needs, not on prompt length.
+Check the target's current capabilities, resolve the parameters that materially affect the edit, and deliver the instructions in the format the tool can use most reliably.

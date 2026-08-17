@@ -10,11 +10,11 @@ Skills trigger by intent, not by exact keywords. Use the distinction below to ch
 
 | Skill | What it does / when to use it | Example |
 | --- | --- | --- |
-| [`read-my-mind`](skills/read-my-mind/SKILL.md) | Clarifies a messy or incomplete thought before planning. | `wait what if i make it local and it reads the xml but never changes anything and ai is just the interface` |
+| [`read-my-mind`](skills/read-my-mind/SKILL.md) | Clarifies a messy or incomplete thought before planning. | `i was thinking... what if i saved the decisions i almost made, not just the ones i chose? like maybe the useful part is why i said no, but im not sure what this is yet` |
 | [`make-it-real`](skills/make-it-real/SKILL.md) | Turns a clear idea into practical scope and immediate next steps. | `I want to run a tiny neighborhood repair night next month. How do I get it moving?` |
 | [`cut-the-bullshit`](skills/cut-the-bullshit/SKILL.md) | Pressure-tests a decision and gives a clear recommendation. | `Our hosting costs are growing. Should we stay on Vercel or move to AWS? Check the current pricing and operational tradeoffs, then tell me whether the migration is actually worth it.` |
 | [`agentize-it`](skills/agentize-it/SKILL.md) | Translates a clear goal into instructions for a specific AI agent or tool. | `Turn this into a Cursor task. It can edit the frontend but must not touch migrations or commit.` |
-| [`am-i-genius`](skills/am-i-genius/SKILL.md) | Researches whether an idea already exists and how novel it really is. | `What if a calendar only showed commitments that cost real money? Did somebody already do this?` |
+| [`am-i-genius`](skills/am-i-genius/SKILL.md) | Researches whether an idea already exists and how novel it really is. | `What if an app told you the shortest list of Marvel movies and shows to watch before the next release, so you understand the story without catching up on everything? Has anyone built this using story connections instead of one giant watch order?` |
 
 ## Install
 

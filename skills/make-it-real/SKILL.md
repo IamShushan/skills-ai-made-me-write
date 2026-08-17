@@ -19,11 +19,11 @@ Turn intent into the smallest useful form that can move.
 
 Adapt to the domain. An event may need a date, venue constraint, and invite list; a technical system may need interfaces and failure modes. Do not turn every idea into software or every request into a multi-phase roadmap.
 
-## Keep the boundary clear
+## Boundary
 
 Answer: **How do I make this real?**
 
-Assume the idea is understood. If it is not, use `read-my-mind` first. Use `cut-the-bullshit` when the main need is a verdict, `agentize-it` when the deliverable is instructions for an AI tool, and `am-i-genius` when novelty is the question.
+Start from a sufficiently understood goal and turn it into forward motion. Revisit the idea itself only when unresolved meaning blocks responsible execution.
 
 ## Examples
 

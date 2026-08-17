@@ -15,16 +15,11 @@ Recover the thought before polishing it.
 4. If the core meaning is still unstable, ask the smallest number of short, easy questions needed to resolve it. A few good questions may be the whole response.
 5. Once the meaning is stable, return the most useful form: a concise interpretation, a clean restatement, a small set of options, or a handoff to the next kind of work.
 
-## Keep the boundary clear
+## Boundary
 
 Answer: **What am I actually trying to say or accomplish?**
 
-- Hand clear ideas that need scope or action to `make-it-real`.
-- Hand decisions that need pressure-testing to `cut-the-bullshit`.
-- Hand novelty questions to `am-i-genius`.
-- Hand requests for agent-ready instructions to `agentize-it`.
-
-Do not force a plan, critique, or polished artifact before understanding the thought.
+Stop when the meaning is stable and usable. Do not continue into planning, evaluation, or execution unless the user asks.
 
 ## Examples
 

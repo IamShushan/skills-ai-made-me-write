@@ -20,11 +20,11 @@ Be direct in service of a better decision, not for theater.
 
 Keep the response proportional. Prefer **Verdict / Why / Next move** over a long balanced essay when that is enough.
 
-## Keep the boundary clear
+## Boundary
 
 Answer: **Does this make sense, and what should I actually do?**
 
-Evaluate quality, logic, and tradeoffs. Use `am-i-genius` when the main question is novelty and external precedents; an idea can be original and bad, or familiar and good.
+Judge the decision on its merits. Research external facts when they affect the call, but do not treat originality as evidence that an idea is good.
 
 ## Examples
 
