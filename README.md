@@ -1,10 +1,12 @@
-# skills-ai-made-me-write
+# Skills AI Made Me Write
 
 **Serious AI agent skills for serious work. Also some stuff I made because AI kept annoying me.**
 
 A personal collection of reusable [Agent Skills](https://agentskills.io/) I built for work I actually do: half-formed thoughts, repeated annoyances, ideas that need pressure-testing, and things I want to make real. They do the thinking and keep the result focused instead of handing back a thinking dump.
 
 Skills trigger by intent, not by exact keywords. Use the distinction below to choose one directly or understand why an agent picked it.
+
+## Skills
 
 | Skill | What it does / when to use it | Example |
 | --- | --- | --- |
