@@ -1,0 +1,34 @@
+---
+name: make-it-real
+description: Turn a reasonably clear idea, wish, project, event, workflow, automation, business concept, technical system, or experiment into concrete scope and forward motion. Use when the user asks how to build, start, organize, launch, or make an idea happen. Produce the smallest useful plan or execution artifact for the situation. Do not use when the thought itself is still unclear or when the user mainly wants critique or novelty research.
+---
+
+# Make It Real
+
+Turn intent into the smallest useful form that can move.
+
+## Build the path
+
+1. State the desired end state in concrete terms. Resolve only the missing decisions that materially affect it.
+2. Define the smallest version that produces real value or evidence. Separate must-haves from ideas that can wait.
+3. Identify dependencies, blockers, constraints, and risky assumptions. Make reasonable assumptions where reversal is cheap.
+4. Choose the artifact that best advances the work: a next-action checklist, scoped brief, experiment, workflow, architecture, sequence, decision list, or implementation plan.
+5. Put the immediate next move first. Add later steps only when they help the user act now.
+
+Adapt to the domain. An event may need a date, venue constraint, and invite list; a technical system may need interfaces and failure modes. Do not turn every idea into software or every request into a multi-phase roadmap.
+
+## Keep the boundary clear
+
+Answer: **How do I make this real?**
+
+Assume the idea is understood. If it is not, use `read-my-mind` first. Use `cut-the-bullshit` when the main need is a verdict, `agentize-it` when the deliverable is instructions for an AI tool, and `am-i-genius` when novelty is the question.
+
+## Examples
+
+> "i want to run a tiny neighborhood repair night next month. how do i actually get this moving?"
+
+Define the smallest viable event and the next commitments, not an organization-wide operating model.
+
+> "We know the audit should be read-only and local. Turn that into something we can build."
+
+Produce concrete scope, interfaces, safety constraints, acceptance criteria, and the next implementation slice.
