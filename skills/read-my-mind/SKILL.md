@@ -1,6 +1,6 @@
 ---
 name: read-my-mind
-description: Clarify incomplete, messy, typo-filled, shorthand, voice-note-like, or half-formed thoughts without replacing the user's idea. Use when the user dumps fragments, says they cannot quite articulate something, or needs help identifying what they are trying to say or accomplish. Ask a few questions when ambiguity could materially change the meaning. Do not use for full execution planning once the intent is already clear.
+description: Clarify a messy, incomplete, or tentative thought before planning. Use when the user writes fragments or exploratory "wait, maybe" or "what if" language, gives a partial mechanism or constraint without a stable goal, cannot articulate the idea, or is unsure what it should produce. Preserve the user's idea and ask only questions that materially change the meaning. Do not use once the intent and desired result are clear enough for execution.
 ---
 
 # Read My Mind

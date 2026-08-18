@@ -1,6 +1,6 @@
 ---
 name: am-i-genius
-description: Research how original an idea is compared with products, companies, open source, papers, patents, APIs, extensions, communities, historical attempts, and adjacent solutions. Use when the user asks whether an idea already exists, how novel it is, who has tried it, or what the closest precedents are. Search beyond the user's exact wording and give a sourced novelty assessment with research limits. Do not use primarily to judge whether the idea is good.
+description: Assess how original an idea is through external research across products, companies, open source, papers, patents, APIs, extensions, communities, historical attempts, and adjacent solutions. Use only when the requested result is a sourced novelty verdict or comparison with existing work—whether the idea already exists, how novel it is, who has tried it, or what the closest precedents are. Search beyond the user's exact wording, synthesize the remaining gap, and state research limits. Originality and quality are separate questions.
 ---
 
 # Am I Genius
