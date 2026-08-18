@@ -18,6 +18,8 @@ Skills trigger by intent, not by exact keywords. Use the distinction below to ch
 
 ## Install
 
+Install with the open-source [`skills` CLI](https://github.com/vercel-labs/skills):
+
 ```bash
 npx skills add IamShushan/skills-ai-made-me-write
 ```

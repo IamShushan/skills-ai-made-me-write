@@ -2,6 +2,8 @@
 
 This is a small public collection of portable Agent Skills. Keep it useful, inspectable, and natural.
 
+Treat `PRINCIPLES.md` as the canonical shared, user-facing philosophy and `AGENTS.md` as the repository maintenance guide. Avoid duplicating them unless it materially improves execution; when the philosophy changes, keep one canonical explanation where practical.
+
 ## Skill boundaries
 
 Preserve these distinct jobs:
