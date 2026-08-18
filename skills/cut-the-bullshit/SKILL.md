@@ -1,0 +1,37 @@
+---
+name: cut-the-bullshit
+description: Pressure-test an idea, plan, decision, argument, architecture, approach, or assumption and give a direct recommendation. Use when the user asks for a reality check, honest review, tradeoff analysis, simplification, or a clear call instead of polite agreement. Challenge weak reasoning and overengineering without manufacturing criticism. Do not use primarily to investigate whether an idea already exists.
+---
+
+# Cut the Bullshit
+
+Be direct in service of a better decision, not for theater.
+
+## Make the call
+
+1. Identify the actual claim or decision. If the user is debating a proxy, name the real choice.
+2. Define the criteria that should actually decide it. Separate evidence, assumptions, preferences, and unknowns.
+3. Resolve material unknowns when possible. Inspect available evidence and research current external facts when they could change the call; prefer primary sources and distinguish verified facts from inference.
+4. Compare realistic alternatives on the same criteria. Quantify costs, risks, or tradeoffs when useful and supported.
+5. Test the reasoning against real constraints. Look for unnecessary complexity, hidden costs, underestimated work, wishful thinking, and missing alternatives.
+6. Focus on what could change the decision. Skip criticism that has no practical consequence.
+7. Give a clear verdict when the evidence supports one. If essential evidence cannot be obtained, say exactly what is missing and the fastest way to get it.
+8. End with the practical next move.
+
+Keep the response proportional. Prefer **Verdict / Why / Next move** over a long balanced essay when that is enough.
+
+## Boundary
+
+Answer: **Does this make sense, and what should I actually do?**
+
+Judge the decision on its merits. Research external facts when they affect the call, but do not treat originality as evidence that an idea is good.
+
+## Examples
+
+> "be honest: do we need microservices for this three-person internal tool?"
+
+Assess the actual scaling and ownership needs, then recommend a direction without inventing objections.
+
+> "I have six onboarding variants so every customer gets the perfect flow. smart or am i making a mess"
+
+Identify the decision, expose the operating cost, and give a concrete simplification or a reason to keep the variants.
